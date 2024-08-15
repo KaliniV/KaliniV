@@ -1,9 +1,7 @@
 <h1 align="center">Oi 👋, meu nome é Kalini</h1>
 <h3 align="center">Trilhando o caminho para me tornar uma desenvolvedora de software.</h3>
 
-- 🔭 Atualmente estou desenvolvendo [Xadrez no CLI](https://github.com/KaliniV/xadrez-sistema-java).
-
-- 🌱 Estou aprendendo: **Java, Python e JavaScript**.
+- 🌱 Estou aprendendo: **Java, Typescript e CSS**.
 
 - 📫 Entre em contato: **kaliniveloso41@gmail.com**.
 
