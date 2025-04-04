@@ -5,7 +5,7 @@
 
 - 📫 Entre em contato: **kaliniveloso41@gmail.com**.
 
-- 📄 Acesse meu currículo: [clique aqui](https://drive.google.com/file/d/1czSljLizCuPclJak49U20bzhBW8iBjLg/view?usp=sharing).
+- 📄 Acesse meu currículo: [clique aqui](https://drive.google.com/file/d/1Y61iP_oYdMnL14Q6evlazwsro_1BwKWb/view?usp=sharing).
 
 - ⚡ Fun fact: **amo café ☕!**
 <br>
